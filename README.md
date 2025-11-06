@@ -1,7 +1,7 @@
 # 💫 About Me:
 👤 **AI & Data Engineer with 5+ years of experience** in international Automotive, research, and EU projects<br>
 👥 We can **discuss about** Computer Vision, ML/DL/AI, Agile, SCRUM, image analytics, and data processing<br>
-💬 I **speak** Spanish (native), English (C1), French (C1), Catalan (C1), and Polish (A2)<br>
+💬 I **speak** 🇪🇸 Spanish (native), 🇬🇧 English (C1), 🇫🇷 French (C1), and 🇵🇱 Polish (A2)<br>
 🌱 I’m **learning about** Big Data, Cloud Computing, Data Engineering, Analysis, and Visualization, etc<br>
 ⚡ My **personal interests** are guitar/bass, videography, scuba diving, bike-packing, and outdoor/adventure sports<br>
 📫 **Reach out** to me trough [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-miguel-torres-camara/) or [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josemigueltorrescamara@gmail.com) <br>
