@@ -1,8 +1,10 @@
 # 💫 About Me:
-🔭 I'm a **multilingual AI & Data Engineer with 5+ years of experience** in international Automotive, research, and EU projects.<br>
-🌱 I’m **currently learning** about Data Engineering, Big Data technologies, Cloud Computing, Data Analysis, and Data Visualization.<br>
-💬 **Ask me about** Computer Vision, AI, ML/DL, Agile, SCRUM, image analytics, and data processing.<br>
-⚡ My **personal interests** include guitar/bass, music and video production, scuba diving, bike-packing, and trying out new outdoor/adventure sports.
+👤 **AI & Data Engineer with 5+ years of experience** in international Automotive, research, and EU projects<br>
+👥 We can **discuss about** Computer Vision, ML/DL/AI, Agile, SCRUM, image analytics, and data processing<br>
+💬 I **speak** Spanish (native), English (C1), French (C1), Catalan (C1), and Polish (A2)<br>
+🌱 I’m **learning about** Big Data, Cloud Computing, Data Engineering, Analysis, and Visualization, etc<br>
+⚡ My **personal interests** are guitar/bass, videography, scuba diving, bike-packing, and outdoor/adventure sports<br>
+📫 **Reach out** to me trough [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-miguel-torres-camara/) or [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josemigueltorrescamara@gmail.com) <br>
 
 # 💻 Tech Stack:
 #### Programming Languages
@@ -22,10 +24,6 @@
 
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ApacheSpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-miguel-torres-camara/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josemigueltorrescamara@gmail.com) 
 
 
 # 📊 GitHub Stats:
