@@ -1,4 +1,6 @@
-# 💫 About Me:
+![Header](github_header.png)
+
+# 👾 About Me:
 👤 **AI & Data Engineer with 5+ years of experience** in international Automotive, research, and EU projects<br>
 👥 We can **discuss about** Computer Vision, ML/DL/AI, Agile, SCRUM, image analytics, and data processing<br>
 💬 I **speak** 🇪🇸 Spanish (native), 🇬🇧 English (C1), 🇫🇷 French (C1), and 🇵🇱 Polish (A2)<br>
